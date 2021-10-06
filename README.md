@@ -1,3 +1,2 @@
 This is Freheit Blog!
-
-using mkdocs write.
+Use issue and projects to write!
